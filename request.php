@@ -16,8 +16,16 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-6 mt-5 text-center">
-                <p><?php echo $new_paragraph ?></p>
+            <div class="col-6 mt-5">
+                <h3>Paragrafo originale:</h3>
+                <p><?php echo $paragraph ?></p>
+                <p class=" fw-lighter">Lunghezza: <?php echo strlen($paragraph); ?> caratteri</p>
+                <h3>Parola da censurare:</h3>
+                <p><?php echo $badword ?></p>
+
+
+
+
             </div>
         </div>
     </div>

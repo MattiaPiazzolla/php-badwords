@@ -16,7 +16,8 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-12">
-                <h1 class="text-center mb-5">PHP Badwords</h1>
+                <h1 class="text-center">PHP Badwords</h1>
+                <p class="text-center mb-5">Primo esercizio PHP</p>
                 <form action="./request.php" method="GET" class="d-flex justify-content-center flex-column">
                     <label for="paragraph" class=" fw-bold">Inserisci un paragrafo:</label>
                     <textarea id="paragraph" class=" w-100 rounded-1 border-1" name="paragraph" rows="10" cols="100" required></textarea>

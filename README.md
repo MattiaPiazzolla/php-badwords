@@ -8,5 +8,9 @@ Ricordatevi di fare sempre il file README.md.
 Numero di push obbligatori: 7/8.
 
 1-Creo un file per il from per inserire i dati
-2-Creo un file che prenderà i file inseriti dall'utente
-3-
+2-Stilizzo la pagina di imput dati
+3-Creo un file che prenderà i file inseriti dall'utente
+4-Dico che informazioni andare a prendere dal file principale
+5-Metto le informazioni a video nella nuova pagina
+6-Rielaboro le informazioni
+7-Metto a video le nuove informazioni
