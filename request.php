@@ -27,8 +27,6 @@
                 <h3>Paragrafo Modificato:</h3>
                 <p><?php echo $new_paragraph ?></p>
                 <p class=" fw-lighter">Lunghezza: <?php echo strlen($new_paragraph); ?> caratteri</p>
-                <h3>Parola censurata:</h3>
-                <p><?php echo $badword ?></p>
 
             </div>
         </div>
